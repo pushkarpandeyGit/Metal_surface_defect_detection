@@ -92,6 +92,9 @@ streamlit run app.py
 <img width="1259" height="909" alt="image" src="https://github.com/user-attachments/assets/eb97d53c-e600-4328-bab1-047bf87ad625" />
 <img width="1268" height="912" alt="Screenshot 2026-02-20 151849" src="https://github.com/user-attachments/assets/e744e9c2-91f3-47e6-a025-b68a948cace4" />
 
+## Deployment link
+https://metalsurfacedefectdetection-ddyxmrhhr88mcjbui8cfyu.streamlit.app/
+
 ## Future Improvements
 
 Increase dataset size to improve model accuracy.
